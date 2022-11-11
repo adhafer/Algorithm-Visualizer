@@ -11,7 +11,7 @@ I was motivated to start this project because of the following repositories:
 
 __To implement:__
 * Algorithms: 
-  - A* Algorithms
+  - A* Algorithm
   - Recursive Division
 
 * Animation for sorting algorithms.

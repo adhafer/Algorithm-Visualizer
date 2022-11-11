@@ -1,0 +1,65 @@
+
+.mainA{
+    color: beige;
+    z-index: 4;
+}
+.modeSelector {
+    /* z-index: 3; */
+    background-color: red;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    display: inline-flex;
+    /* display: flex; */
+    /* margin-bottom: 20%; */
+}
+
+
+
+.header{
+    display: block;
+    position: relative;
+    
+}
+
+.title{
+  /* top:0%; */
+  position: relative;
+  display: inline-block;
+  width: 50%;
+  height: 2em;
+  font-size: 1.5em;
+  margin: 0 auto;
+  color: wheat;
+  background-color:#282c34;
+  text-align: center;
+
+  border-style: none;
+
+}
+
+
+.title:hover{
+    color: #282c34;
+    background-color: wheat;
+}
+
+/* .title:hover ~ .secondtitle{ */
+    /* display: inline-block; */
+  /*  */
+/* } */
+/* .secondtitle:hover{ */
+    /* display: block; */
+/*  */
+/* } */
+
+/* .secondtitle{
+
+    position: absolute;
+    width: 50%;
+    margin: 0 auto;
+
+} */
+
+
+

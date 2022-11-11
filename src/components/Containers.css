@@ -1,0 +1,12 @@
+.box_holder{
+    
+    background: white;
+    
+}
+.row_rect{
+    display: inline-grid; 
+    position: relative;
+    grid-row-gap: 0;
+    top: 0%;
+    float: left;
+}
